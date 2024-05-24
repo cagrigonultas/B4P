@@ -36,7 +36,11 @@ Yapay Zeka: Python, scikit-learn, TensorFlow
 💣 Takım Üyeleri:
 
 Muhammed Çağrı Gönültaş 
+
 Muhammed Fatih Aslan  
+
 Betül Yalçın
+
 Emirhan Dinç
+
 Emre Şimşek
